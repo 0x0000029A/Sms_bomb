@@ -3,7 +3,7 @@ from time import sleep
 import urllib.request
 import colorama
 """
-Program ile yapacağınız herhangi bir işlemden ben sorumlu değilim. Bu riski göz önüne alarak kullanın.
+Kod ile yapacağınız herhangi bir işlemden ben sorumlu değilim. Bu riski göz önüne alarak kullanın.
 
 This application is for private or educational purposes only.
 Do not use it on other people without their permission. 
