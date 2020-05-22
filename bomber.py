@@ -2,6 +2,14 @@ import requests, random
 from time import sleep
 import urllib.request
 import colorama
+"""
+Program ile yapacağınız herhangi bir işlemden ben sorumlu değilim. Bu riski göz önüne alarak kullanın.
+
+This application is for private or educational purposes only.
+Do not use it on other people without their permission. 
+I do not accept responsibility for caused by the use of this code.
+By using the this code,you automatically accept that you yourself are criminally responsible for yourself and you are aware that it violates the guidelines.
+"""
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 
